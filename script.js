@@ -20,10 +20,10 @@ const skills = [
 const projects = [
   {
     name: "Weather-Based Travel Advisor",
-    description: "Recommends travel destinations based on weather conditions.",
+    description: "Travel Advice based on weather conditions.",
     tech: "JavaScript, APIs, HTML, CSS",
     live: "#", // placeholder link
-    github: "#" // placeholder link
+    github: "https://github.com/thomsonian2016-ship-it/TravelAdviceApp" // placeholder link
   },
   {
     name: "Smart Todo System",
