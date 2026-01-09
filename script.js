@@ -22,7 +22,7 @@ const projects = [
     name: "Weather-Based Travel Advisor",
     description: "Travel Advice based on weather conditions.",
     tech: "JavaScript, APIs, HTML, CSS",
-    live: "#", // placeholder link
+    live: "https://thomsonian2016-ship-it.github.io/TravelAdviceApp/", // placeholder link
     github: "https://github.com/thomsonian2016-ship-it/TravelAdviceApp" // placeholder link
   },
   {
