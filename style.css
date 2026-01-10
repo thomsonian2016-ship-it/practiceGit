@@ -22,10 +22,7 @@ body {
   display: flex;          /* make it a flex container */
   justify-content: flex-end; /* push content to the right */
   align-items: center;
-
-  position: sticky; /* sticks at the top */
-  top: 0;           /* 0 distance from top */
-  z-index: 1000;
+  
 }
 
 .top-bar a {
